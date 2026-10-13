@@ -2,8 +2,6 @@
 
 **Autonomous Meteora DLMM liquidity management agent for Solana, powered by LLMs.**
 
-**Links:** [Website](https://agentmeridian.xyz) | [Telegram channel](https://t.me/agentmeridian) | [X](https://x.com/meridian_agent)
-
 AgentLP runs continuous screening and management cycles, deploying capital into high-quality Meteora DLMM pools and closing positions based on live PnL, yield, and range data. It learns from every position it closes.
 
 ---
